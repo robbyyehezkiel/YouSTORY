@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">YouSTORY</string>
+
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="register">Daftar</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="folder">Folder</string>
+    <string name="explore">Explore</string>
+    <string name="refresh">Refresh</string>
+    <string name="home">Home</string>
+    <string name="information">Information</string>
+    <string name="permission">Permission</string>
+    <string name="language">Language</string>
+    <string name="description">Description</string>
+    <string name="blank" translatable="false">" "</string>
+
+    <string name="register_hover">Belum memiliki akun?</string>
+    <string name="login_hover">Sudah memiliki akun?</string>
+
+    <string name="widget_description">Widget to see recent story</string>
+    <string name="write_my_story" translatable="false">Write My Story</string>
+
+    <string name="password_not_field">Form password cannot be empty</string>
+    <string name="name_not_field">Form name cannot be empty</string>
+    <string name="invalid_email">Email format is invalid</string>
+    <string name="not_filled_email">Form email cannot be empty</string>
+    <string name="empty_field">Form Name, Email and Password cannot be empty</string>
+    <string name="edittext_password_rules">Password must contain at least 8 characters</string>
+
+    <string name="ok">OK</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="logout">Logout</string>
+    <string name="download_story">Download Story</string>
+
+    <string name="error_large">Your image exceeds the maximum limit of 1 MB file, please change the image</string>
+    <string name="error_send">Failed execution, Error occur on send image</string>
+    <string name="error_fetch">Failed execution, Error occur on fetching data</string>
+
+    <string name="camera_photo">Take a photo</string>
+    <string name="camera_rotate">Rotate a camera</string>
+    <string name="button_back">Button Back</string>
+    <string name="image_from_gallery">Pick Image from Gallery</string>
+    <string name="choose_image">Choose a picture</string>
+    <string name="image_download">Image downloaded successfully</string>
+
+    <string name="add_story">New Story</string>
+    <string name="profile_avatar">Default Profile Avatar Image</string>
+    <string name="image_story_description">User Story Image</string>
+    <string name="btn_setting">Open Related App Settings</string>
+    <string name="btn_jump_up">Button scroll top</string>
+    <string name="btn_description_info">Button information</string>
+    <string name="btn_dialog_close">Button close dialog</string>
+
+    <string name="lorem" translatable="false">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </string>
+    <string name="person_name" translatable="false">John Doe</string>
+    <string name="date_upload">uploaded at 30 April 2022 00.00</string>
+    <string name="write_description">Write description here</string>
+    <string name="setting">Setting</string>
+    <string name="welcome_app">Welcome back,</string>
+    <string name="ask_permission">Set App Permission</string>
+    <string name="switch_language">Change Language</string>
+    <string name="uploaded">This story uploaded</string>
+    <string name="second">seconds ago</string>
+    <string name="hours">hours ago</string>
+    <string name="days">days ago</string>
+    <string name="minute">minutes ago</string>
+    <string name="on">on</string>
+    <string name="data_update" translatable="false">Update Data</string>
+    <string name="text_empty" translatable="false">NO DATA</string>
+    <string name="login_on">Login on</string>
+    <string name="failed_fetch">Failed fetch data</string>
+    <string name="removed_widget">Widget removed</string>
+    <string name="story_description">Story Description</string>
+    <string name="continue_button">Continue</string>
+    <string name="image_preview">Preview Image</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="data_empty">Data not found</string>
+    <string name="story_downloaded">Downloaded Story</string>
+    <string name="story_uploaded">Uploaded Story</string>
+    <string name="try_again">Try again</string>
+
+    <string name="Icon_Maps">Icon maps</string>
+    <string name="DefaultCountry">Default View (Country)</string>
+    <string name="DefaultProvince">Around My Province</string>
+    <string name="DefaultCity">Around My City</string>
+    <string name="DefaultDistrict">Around My District</string>
+    <string name="DefaultMaps">Around My Location</string>
+    <string name="ErrorDataFetch">Error while fetching data</string>
+
+    <string name="LocationStory">Story Location</string>
+
+    <string name="title_menu_1">Kurikulum Standar Industri Global</string>
+    <string name="title_menu_2">Belajar Fleksibel Sesuai Jadwal Anda</string>
+    <string name="title_menu_3">Code Review dari Developer Expert</string>
+    <string name="title_menu_4">Alumni Terpercaya di Berbagai Perusahaan</string>
+    <string name="desc_menu_1">Kurikulum dikembangkan bersama perusahaan dan pemilik teknologi dunia sesuai kebutuhan industri terkini.</string>
+    <string name="desc_menu_2">Belajar kapan pun, di mana pun, secara mandiri. Bebas memilih kelas sesuai minat belajar. Akses seumur hidup ke kelas dan forum diskusi setelah lulus.</string>
+    <string name="desc_menu_3">Validasi skill Anda melalui 1-on-1 Professional Code Review yang diberikan langsung oleh Developer Expert.</string>
+    <string name="desc_menu_4">Sertifikat yang membuktikan pengetahuan fundamental beserta keterampilan nyata yang diinginkan perusahaan global.</string>
+    <string name="learn_now">Belajar Sekarang</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="start_running">Start Running</string>
+    <string name="stop_running">Stop Running</string>
+    <string name="start_point">Start Point</string>
+
+    <string name="alert_success">Sukses !</string>
+    <string name="alert_failed">Gagal !</string>
+    <string name="alert_warning">Peringatan !</string>
+    <string name="alert_register">Pendaftaran berhasil dilakukan, silahkan login untuk mengakses aplikasi</string>
+    <string name="alert_logout">Apakah anda yakin ingin keluar dari aplikasi ?</string>
+    <string name="toast_success">Aktivitas berhasil dilakukan !</string>
+
+    <string name="alert_launch_camera">Mengakses kamera gagal dilakukan, Silahkan coba untuk membuka kamera kembali</string>
+    <string name="alert_take_picture">Pengambilan gambar gagal dilakukan, Silahkan coba untuk mengambil gambar kembali</string>
+    <string name="alert_maps">Pilih lokasi terlebih dahulu. Tekan layar pada lokasi yang diinginkan</string>
+    <string name="alert_description_not_field">Kolom deskripsi kosong, Silahkan isi deskripsi cerita terlebih dahulu !</string>
+    <string name="alert_success_upload">Cerita anda berhasil di upload !</string>
+    <string name="alert_token_expired">Masa berlaku token anda telah habis, silahkan login kembali untuk mendapatkan token terbaru !</string>
+    <string name="permission_location">Berikan izin aplikasi untuk mengakses lokasi</string>
+
+    <string name="click_to_view_story">Klik untuk melihat story</string>
+    <string name="click_to_select_location">Klik untuk memilih lokasi</string>
+    <string name="click_to_select_story">Klik untuk melihat cerita</string>
+    <string name="path_gambar">Lokasi file gambar</string>
+</resources>
